@@ -1,4 +1,5 @@
 function Home () {
-    return <h1>Everyone has the potential for changing things, don't be afraid and do everything you can! Keep doing your best!</h1>
+    return <h1>Tome decisões conscientes, não viva a vida no automático, faça o bem quando puder e nunca pare de seguir em frente.
+    </h1>
 }
 export default Home;
